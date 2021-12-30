@@ -4,7 +4,7 @@ public class Uwu {
     public static void main(String[] args) {
         try {
             Runtime.getRuntime().exec(
-                    "cmd.exe /c echo Update-uj si Javu pls, prtž jsem právě použil RCE na tvém počítači, přes jednu správu v chatu, nemám tvoje hesla, ale někdo jiný může použít podobný Exploit a získat tvoje hesla a IP");
+                    "cmd.exe /c echo Hello, please update JRE, cause i just used RCE at u. Also, u r lucky, that i didn't steal your passwords :D");
         } catch (IOException e) {
             e.printStackTrace();
         }
